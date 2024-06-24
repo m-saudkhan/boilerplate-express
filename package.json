@@ -10,7 +10,7 @@
   },
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "start":"node MyApp.js"
+    "start": "node server.js",
+    "test":"node MyApp.js"
   }
 }
